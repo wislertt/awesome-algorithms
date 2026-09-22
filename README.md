@@ -29,6 +29,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [VisuAlgo](http://visualgo.net) - Visualising data structures and algorithms through animation.
 * [See Algorithms](https://see-algorithms.com/) – Visualizes algorithms and lets users create and share custom graphs and binary trees.
 * [Recursive](https://recursive.oilater.com/en) - Visualizes code execution step-by-step with a call tree, variable tracking, and line highlighting. Supports Python and JavaScript/TypeScript.
+* [leetcode-py](https://github.com/wislertt/leetcode-py) - Generates local LeetCode practice environments where trees, linked lists, and graphs render as Graphviz diagrams in Jupyter, with a parametrized pytest suite per problem.
 
 ## Programming Contest
 
@@ -44,7 +45,6 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Codeforces](http://codeforces.com/) - Challenging problems.
 * [TopCoder](https://www.topcoder.com/) - Sponsored by tech companies.
 * [Leet Code](https://leetcode.com/) - Interviews problems.
-* [leetcode-py](https://github.com/wislertt/leetcode-py) - Generates a local practice environment for LeetCode problems, with a typed function stub and a pytest suite.
 * [UVA](https://uva.onlinejudge.org/) - Archives previous ACM-ICPC Regionals and World Finals.
 * [ProjectEuler](https://projecteuler.net/) - Math oriented problems.
 
