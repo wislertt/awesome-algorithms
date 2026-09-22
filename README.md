@@ -44,6 +44,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Codeforces](http://codeforces.com/) - Challenging problems.
 * [TopCoder](https://www.topcoder.com/) - Sponsored by tech companies.
 * [Leet Code](https://leetcode.com/) - Interviews problems.
+* [leetcode-py](https://github.com/wislertt/leetcode-py) - Generates a local practice environment for LeetCode problems, with a typed function stub and a pytest suite.
 * [UVA](https://uva.onlinejudge.org/) - Archives previous ACM-ICPC Regionals and World Finals.
 * [ProjectEuler](https://projecteuler.net/) - Math oriented problems.
 
